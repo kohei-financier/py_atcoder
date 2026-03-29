@@ -1,0 +1,1 @@
+## Atcoder ABCのPythonテンプレート
